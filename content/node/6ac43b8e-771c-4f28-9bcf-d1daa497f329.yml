@@ -1,0 +1,68 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6ac43b8e-771c-4f28-9bcf-d1daa497f329
+  bundle: group
+  default_langcode: en
+  depends:
+    11318276-1099-48d3-ae54-1e4746558d2e: user
+    881b4f95-54f7-485e-9999-a90d1e05208b: media
+default:
+  revision_uid:
+    -
+      entity: 11318276-1099-48d3-ae54-1e4746558d2e
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: 11318276-1099-48d3-ae54-1e4746558d2e
+  title:
+    -
+      value: 'Group test'
+  created:
+    -
+      value: 1758030499
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'Group test | Drupal Starter'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://drupal-starter.ddev.site:4443/node/12'
+    -
+      tag: meta
+      attributes:
+        property: 'og:title'
+        content: 'Group test'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  content_translation_source:
+    -
+      value: und
+  content_translation_outdated:
+    -
+      value: false
+  field_body:
+    -
+      value: '<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus egestas a lacus quis gravida. Vestibulum sit amet vestibulum odio. Aliquam quis massa hendrerit, finibus nunc mollis, lobortis tortor. Pellentesque elementum est odio, vel varius metus molestie ac. Aliquam volutpat purus sit amet pulvinar dignissim. Sed porta nulla sit amet nibh condimentum tincidunt. Proin ultrices id leo et eleifend. Praesent tristique rhoncus purus sit amet volutpat. Aliquam velit tortor, ultricies sed efficitur fringilla, condimentum sed tellus.</p><p>Proin dolor lorem, mollis quis mauris eget, interdum efficitur velit. Fusce sit amet massa quis dui laoreet posuere. Quisque eu nisl blandit libero lacinia sodales sodales sed odio. Morbi tincidunt maximus nulla, faucibus sodales dui consectetur sed. Duis lacus velit, lobortis non tellus at, suscipit pharetra magna. Aenean iaculis ex non tortor tincidunt, eu viverra mi ultrices. Suspendisse malesuada ultrices lorem, sed viverra arcu tempor ac. Fusce cursus lacinia ipsum egestas lacinia. In hac habitasse platea dictumst. Praesent in sodales felis, ac interdum eros. Suspendisse rutrum libero id dolor posuere malesuada.</p>'
+      format: basic_html
+  field_featured_image:
+    -
+      entity: 881b4f95-54f7-485e-9999-a90d1e05208b

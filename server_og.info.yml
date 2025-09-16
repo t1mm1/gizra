@@ -1,0 +1,16 @@
+name: "Group OG"
+type: module
+description: "Test module for OG based on test content Group and Person"
+core_version_requirement: ^9 || ^10
+package: "server"
+dependencies:
+  - og:og
+  - og:og_ui
+  - default_content:default_content
+  - server_general:server_general
+
+default_content:
+  node:
+    - 6ac43b8e-771c-4f28-9bcf-d1daa497f329 # Group test node
+  user:
+    - 0f1e36b7-51b1-4c7c-8c95-8a4b998b4295 # Test user, login: group_user, pass: 8r2SzvF6vAKpFrj

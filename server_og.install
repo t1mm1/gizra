@@ -1,0 +1,24 @@
+<?php
+
+use Drupal\server_og\Util\Install;
+
+/**
+ * Implements hook_install().
+ */
+function server_og_install()
+{
+  // Create a new content type.
+  Install::createNodeType();
+
+  // Create fields.
+  Install::createNodeFields();
+
+  // Make fields available for edit.
+  Install::setNodeFormDisplay();
+
+  // Make fields available for view.
+  Install::setNodeViewDisplay();
+
+  // Make content type as group.
+  Install::setContentTypeGroup();
+}

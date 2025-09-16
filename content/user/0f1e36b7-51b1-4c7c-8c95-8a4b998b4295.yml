@@ -1,0 +1,71 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: 0f1e36b7-51b1-4c7c-8c95-8a4b998b4295
+  default_langcode: en
+default:
+  preferred_langcode:
+    -
+      value: en
+  preferred_admin_langcode:
+    -
+      value: en
+  name:
+    -
+      value: group_user
+  pass:
+    -
+      value: $2y$10$Xr9FwLFmcgy7wRfQiHz4LuceERi2EmWYZ.wRmMbELI4ToV.ustkWG
+      existing: ''
+      pre_hashed: false
+  mail:
+    -
+      value: group_user@example.com
+  timezone:
+    -
+      value: UTC
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1758030639
+  access:
+    -
+      value: 0
+  login:
+    -
+      value: 0
+  init:
+    -
+      value: group_user@example.com
+  metatag:
+    -
+      tag: meta
+      attributes:
+        name: title
+        content: 'group_user | Drupal Starter'
+    -
+      tag: meta
+      attributes:
+        name: description
+        content: 'Drupal Starter'
+    -
+      tag: link
+      attributes:
+        rel: canonical
+        href: 'https://drupal-starter.ddev.site:4443/user/8'
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_last_password_reset:
+    -
+      value: '2025-09-16T13:50:45'
+  field_password_expiration:
+    -
+      value: false
+  field_pending_expire_sent:
+    -
+      value: 0
