@@ -9,19 +9,19 @@ I do not use configs and post_update scripts:
 
 ### Media
 
-Owner
+1. Owner
 ![Owner](assets/owner.png)
 
-Subscribe
+2. Subscribe
 ![Subscribe](assets/subscribe.png)
 
-Request form
+3. Request form
 ![Form](assets/form.png)
 
-Pending
+4. Pending
 ![Pending](assets/pending.png)
 
-Unsubscribe
+5. Unsubscribe
 ![Unsubscribe](assets/unsubscribe.png)
 
 ### Scheme
