@@ -16,7 +16,7 @@ I do not use configs and post_update scripts:
 ![Subscribe](assets/subscribe.png)
 
 3. Request form
-![Form](assets/form.png)
+![Request form](assets/form-request.png)
 
 4. Pending
 ![Pending](assets/pending.png)
