@@ -13,16 +13,16 @@ Owner
 ![Owner](assets/owner.png)
 
 Subscribe
-![Owner](assets/subscribe.png)
+![Subscribe](assets/subscribe.png)
 
 Form
-![Owner](assets/form.png)
+![Form](assets/form.png)
 
 Pending
-![Owner](assets/pending.png)
+![Pending](assets/pending.png)
 
 Unsubscribe
-![Owner](assets/unsubscribe.png)
+![Unsubscribe](assets/unsubscribe.png)
 
 ### Scheme
 ```
