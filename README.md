@@ -7,6 +7,23 @@ I do not use configs and post_update scripts:
 - In case with configs OG 2.0 doesn't support correct marking node type as a group type.
 - In case with post_update (for example, we can create a content type via configs and update internal settings via script, but it will ask to run updb).
 
+### Media
+
+Owner
+![Owner](assets/owner.png)
+
+Subscribe
+![Owner](assets/subscribe.png)
+
+Form
+![Owner](assets/form.png)
+
+Pending
+![Owner](assets/pending.png)
+
+Unsubscribe
+![Owner](assets/unsubscribe.png)
+
 ### Scheme
 ```
 server_og/
@@ -68,7 +85,7 @@ Dependencies:
 Install this module using the standard Drupal module installation process.
 Supports D9/D10.
 
-After module install toy can open node/12 for tests (for clean installation).
+After module install you can open node/12 for tests (for clean installation).
 
 For message styling markup used basic tailwind css.
 
