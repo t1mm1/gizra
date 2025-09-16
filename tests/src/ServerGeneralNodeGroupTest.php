@@ -11,7 +11,7 @@ use Drupal\user\UserInterface;
 use Symfony\Component\HttpFoundation\Response;
 
 /**
- * Test 'news' content type.
+ * Test 'group' content type (subscribe/unsubscribe group).
  */
 class ServerGeneralNodeGroupTest extends ServerGeneralNodeTestBase {
 

@@ -13,8 +13,8 @@ server_og/
 └── content/
   └── node/
     └── 6ac43b8e-771c-4f28-9bcf-d1daa497f329.yml
-    └── user/
-      └── 0f1e36b7-51b1-4c7c-8c95-8a4b998b4295.yml
+  └── user/
+    └── 0f1e36b7-51b1-4c7c-8c95-8a4b998b4295.yml
 ├── src
   └── Plugin
     └── EntityViewBuilder

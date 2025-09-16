@@ -9,7 +9,7 @@ use Drupal\server_general\ThemeTrait\SocialShareThemeTrait;
 use Drupal\server_general\ThemeTrait\TitleAndLabelsThemeTrait;
 
 /**
- * Helper method for building the Node news element.
+ * Helper method for building the Node Group element.
  */
 trait ElementNodeGroupThemeTrait {
 
@@ -19,7 +19,7 @@ trait ElementNodeGroupThemeTrait {
   use TitleAndLabelsThemeTrait;
 
   /**
-   * Build the Group news element.
+   * Build the Group Group element.
    *
    * @param string $title
    *   The node title.
