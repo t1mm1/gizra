@@ -15,7 +15,7 @@ Owner
 Subscribe
 ![Subscribe](assets/subscribe.png)
 
-Form
+Request form
 ![Form](assets/form.png)
 
 Pending
